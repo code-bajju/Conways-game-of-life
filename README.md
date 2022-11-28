@@ -3,7 +3,7 @@
 [Visit Now](https://github.com/code-bajju/Conways-game-of-life.git) 🚀
 
 [![javascript-projects](https://img.shields.io/website-up-down-green-red/http/shields.io.svg?color=blue)](https://github.com/code-bajju/Conways-game-of-life.git)&nbsp;
-[![repo-size](https://img.shields.io/github/repo-size/code-bajju/Conways-game-of-life.git)](https://github.com/code-bajju/rock-paper-scissor)
+[![repo-size](https://img.shields.io/github/repo-size/code-bajju/Conways-game-of-life.git)](https://github.com/code-bajju/rock-paper-scissor.git)
 
 ## Overview
 Initially, there is a grid with some cells which may be alive or dead. Our task is to generate the
